@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\egor1\source\repos\Calc\Calc\Source.cpp(59,32): warning C4129: /: неизвестная escape-последовательность
+C:\Users\egor1\source\repos\Calc\Calc\Source.cpp(77,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\egor1\source\repos\Calc\Calc\Source.cpp(78,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\egor1\source\repos\Calc\Calc\Source.cpp(154): warning C4715: simple_calculate: значение возвращается не при всех путях выполнения
+  Calc.vcxproj -> C:\Users\egor1\source\repos\Calc\Debug\Calc.exe
